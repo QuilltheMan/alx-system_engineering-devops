@@ -1,1 +1,3 @@
-Alea iacta est ("The die is cast") is a Latin phrase attributed by Suetonius
+#!/bin/bash
+$ head -n 3 iacta | tail -1
+
